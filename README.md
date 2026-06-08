@@ -1,4 +1,4 @@
-git add README.me# Loja Online
+# Loja Online
 
 Projeto de estudo para aprender Git.
 
