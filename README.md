@@ -2,4 +2,4 @@
 
 Projeto de estudo para aprender Git.
 
-Versão principal.
+Versão principal atualizada.
